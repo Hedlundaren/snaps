@@ -1,0 +1,4 @@
+node_modules/
+
+# Genererade häften (HTML/PDF). Ta bort raden om du vill checka in dem.
+booklets/*/out/
